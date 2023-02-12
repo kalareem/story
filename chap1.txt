@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 haha
+=======
+aaaaa
+>>>>>>> chap1_2_haha
